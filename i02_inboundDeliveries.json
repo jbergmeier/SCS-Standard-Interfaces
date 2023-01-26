@@ -1,0 +1,108 @@
+{
+    "Header": {
+        "clientID": "12333",
+        "transactionDateTime": "YYYY-MM-DDTHH:MM:SSZ"
+    },
+    "Transfers": [
+        {
+            "general": {
+                "transferId": "6273921",
+                "supplierID": "235332",
+                "supplierName": "ES Test",
+                "deliveryDate": "YYYY-MM-DD"
+            },
+            "purchaseOrders": [
+                {
+                    "purchaseOrderNumber": "1819292223",
+                    "purchaseOrderLineItems": [
+                        {
+                           
+                            "purchaseOrderLine": "1",
+                            "productItemId": "F23123123",
+                            "quantity": 1000,
+                            "lotNumber": "",
+                            "lotProductionDate": "",
+                            "lotExpirationDate": "",
+                            "status": "ok",
+                            "customAttributes": [
+                                {
+                                    "attributeId": "Key",
+                                    "attributeValue": "Value"
+                                }
+                            ]
+                        },
+                        {
+                            "purchaseOrderLine": "2",
+                            "productItemId": "F233123",
+                            "quantity": 100,
+                            "lotNumber": "7283e",
+                            "lotProductionDate": "YYYY-MM-DD",
+                            "lotExpirationDate": "YYYY-MM-DD",
+                            "status": "ok",
+                            "customAttributes": [
+                                {
+                                    "attributeId": "Key",
+                                    "attributeValue": "Value"
+                                }
+                            ]
+                        }
+                    ],
+                    "customAttributesPurchaseOrder": [
+                        {
+                            "attributeId": "Key",
+                            "attributeValue": "Value"
+                        }
+                    ]
+                },
+                {
+                    "purchaseOrderNumber": "1819292224",
+                    "purchaseOrderLineItems": [
+                        {
+                           
+                            "purchaseOrderLine": "1",
+                            "productItemId": "F23123998",
+                            "quantity": 10,
+                            "lotNumber": "",
+                            "lotProductionDate": "",
+                            "lotExpirationDate": "",
+                            "status": "ok",
+                            "customAttributes": [
+                                {
+                                    "attributeId": "Key",
+                                    "attributeValue": "Value"
+                                }
+                            ]
+                        },
+                        {
+                            "purchaseOrderLine": "2",
+                            "productItemId": "F2355123",
+                            "quantity": 1090,
+                            "lotNumber": "",
+                            "lotProductionDate": "",
+                            "lotExpirationDate": "",
+                            "status": "ok",
+                            "customAttributes": [
+                                {
+                                    "attributeId": "Key",
+                                    "attributeValue": "Value"
+                                }
+                            ]
+                        }
+                    ],
+                    "customAttributesPurchaseOrder": [
+                        {
+                            "attributeId": "Key",
+                            "attributeValue": "Value"
+                        }
+                    ]
+                }
+            ],
+            "customAttributesTransfer": [
+                {
+                    "attributeId": "Color",
+                    "attributeValue": "red"
+                }
+            ]
+        }
+    ]
+}
