@@ -1,0 +1,53 @@
+{
+    "Header": {
+        "clientID": "12333",
+        "transactionDateTime": "YYYY-MM-DDTHH:MM:SSZ"
+    },
+    "Materialdata": [
+        {
+            "general": {
+                "productItemId": "F1479001",
+                "ean": "4657383853",
+                "description": [ 
+                    {
+                        "Language": "DE",
+                        "Text": "Material Description German"
+                    },
+                    {
+                        "Language": "EN",
+                        "Text": "Material Description English"
+                    }
+                ],
+                "unit": "EA",
+                "itemGroup": "AERO"            
+            },
+            "financial": {
+                "standardCost": 0.3912,
+                "commodityCode": "",
+                "tariffCode": "49111010"
+            },
+            "dimensions": {
+                "GrossWeight": "0",
+                "volumeDimension": "0.0000",
+                "GrossWidth": "0",
+                "GrossDepth": "0",
+                "GrossHeight": "0.00",
+                "UnitsPerCarton": "1"
+            },
+            "lifeCycle": {
+                "shelfLifeDays": "120"
+            },
+            "highValue": "N",
+            "hazardnumber": "",
+            "countryOfOriginCode": "ES",
+            "countryofOriginDesc": "Spain",
+            "statusIndicator": "active",
+            "customAttributes": [
+                {
+                    "attributeId": "Color",
+                    "attributeValue": "red"
+                }
+            ]
+        }
+    ]
+}
