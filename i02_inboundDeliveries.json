@@ -94,6 +94,18 @@
                             "attributeId": "Key",
                             "attributeValue": "Value"
                         }
+                    ],
+                    "handlingUnitsPurchaseOrder": [
+                        {
+                            "cartonId": "xxxxx",
+                            "purchaseOrderLine": "1",
+                            "cartonQty": "10"
+                        },
+                        {
+                            "cartonId": "xxxxx",
+                            "purchaseOrderLine": "2",
+                            "cartonQty": "10"
+                        }
                     ]
                 }
             ],
